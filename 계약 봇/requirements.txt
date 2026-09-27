@@ -1,1 +1,0 @@
--r discord_contract_bot/requirements.txt
